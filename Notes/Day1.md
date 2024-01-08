@@ -16,6 +16,13 @@
         ```
     4. F5 to run and debug in VSCode's terminal
 
+- To check which version of Java you are running from VSCode:
+
+  * Open a Java project folder and press Command+Shift+p to open Command Palette and type Java configure java runtime.
+  ![Command+Shift+P and search for configure Java runtime](Assets/which_java.png)
+   
+  * Java projects + versions used show up
+  ![Java projects + versions used show up](Assets/which_java_2.png)
 
 # References
 - [University of Helinski's MOOC](https://java-programming.mooc.fi/)
