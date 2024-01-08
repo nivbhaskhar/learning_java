@@ -1,6 +1,6 @@
 # Java set up for MacOS
 
-- As a VSCode user, decided to use Java within VSCode
+- As a VSCode user, I decided to use Java within VSCode
 - Lightweight installation tutorial [https://code.visualstudio.com/docs/java/java-tutorial](https://code.visualstudio.com/docs/java/java-tutorial)
 - TLDR
     1. Install the Extension Pack for Java
